@@ -42,3 +42,9 @@ For each k∈{1,...,n} where k controls the kNN graph construction (by deciding 
 * graph density
 
 Quantities are minmax normalised and plotted together to show how graph structure changes as connectivity increases.
+
+Example:
+
+![output example](https://github.com/gucn/260704/blob/main/outputGraph.png)
+
+
