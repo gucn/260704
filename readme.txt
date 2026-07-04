@@ -45,6 +45,6 @@ Quantities are minmax normalised and plotted together to show how graph structur
 
 Example:
 
-![output example](https://github.com/gucn/260704/blob/main/outputGraph.png)
+![output example](outputGraph.png)
 
 
