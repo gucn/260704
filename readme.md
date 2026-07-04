@@ -44,9 +44,7 @@ For each k∈{1,...,n} where k controls the kNN graph construction (by deciding 
 Quantities are minmax normalised and plotted together to show how graph structure changes as connectivity increases.
 
 Example:
-
-<img src="https://raw.githubusercontent.com/gucn/260704/main/outputGraph.png" width="500" />
-
+![output example](outputGraph.png)
 
 
 
